@@ -1,0 +1,69 @@
+[+] Containers:
+ |- [+] Container: /Game/Platformer3D_MK/Maps/Level01
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:8DB14F1A468AB621BB78ACAE598C8A51 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF1C901_1784410835 Label:CubeGridToolOutput SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4500.000 Y=2900.000 Z=0.000), Max=(X=-1700.000 Y=4600.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9988F4284F6214D3ED2089B6590A5ABC BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:C18912E44577CA13FFED429BD4F4D03E BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_244BFE874FBAF1C901_1806834836 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4250.000 Y=3620.000 Z=100.000), Max=(X=-4170.000 Y=3700.000 Z=284.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:8DB14F1A468AB621BB78ACAE598C8A51 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF1C901_1784410835 Label:CubeGridToolOutput SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4500.000 Y=2900.000 Z=0.000), Max=(X=-1700.000 Y=4600.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:9988F4284F6214D3ED2089B6590A5ABC BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:C18912E44577CA13FFED429BD4F4D03E BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_244BFE874FBAF1C901_1806834836 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4250.000 Y=3620.000 Z=100.000), Max=(X=-4170.000 Y=3700.000 Z=284.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-4500.000 Y=2900.000 Z=0.000), Max=(X=-1700.000 Y=4600.000 Z=400.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Platformer3D_MK/Maps/Level01
+----------------------------------------------------------------------------------------------------------------
+Level01 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Level01 Persistent Level
+ |- Always loaded Actor Count: 10 
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level01.Level01:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Platformer3D_MK/Maps/Level01
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level01.Level01:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Platformer3D_MK/Maps/Level01
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level01.Level01:PersistentLevel.CombinedTransformGizmoActor_0
+ |- Actor Package: /Game/Platformer3D_MK/Maps/Level01
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level01.Level01:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Platformer3D_MK/Maps/Level01
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level01.Level01:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Platformer3D_MK/Maps/Level01
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level01.Level01:PersistentLevel.PlayerStart_UAID_244BFE874FBAF1C901_1806834836
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level01/4/JS/J0SENYAI6Q996XZKB9S32J
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level01.Level01:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF1C901_1784410835
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level01/3/ZV/J06W04ZK1136UMP78LNSVO
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level01.Level01:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level01/0/H4/R5AKCDLAXND1LOTBACLA9Z
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level01.Level01:PersistentLevel.WorldPartitionMiniMap_UAID_244BFE874FBAF1C901_1504709834
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level01/3/J4/B40USYG5CWEXYTAC8MXHKI
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level01.Level01:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/Platformer3D_MK/Maps/Level01
+
+----------------------------------------------------------------------------------------------------------------
+Level01 - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=-4500.000 Y=2900.000 Z=0.000), Max=(X=-1700.000 Y=4600.000 Z=400.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count    1 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell Level01_MainGrid_L0_X0_Y0 (A0XNFYLFA3CCF93L4YC3E4JOU)
+ |   |- Actor Count: 1
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level01.Level01:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF1C901_1784410835
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level01/3/ZV/J06W04ZK1136UMP78LNSVO
+ |   |- Actor Instance Guid: 8DB14F1A468AB621BB78ACAE598C8A51
+[+] Content of Grid Level 1
+

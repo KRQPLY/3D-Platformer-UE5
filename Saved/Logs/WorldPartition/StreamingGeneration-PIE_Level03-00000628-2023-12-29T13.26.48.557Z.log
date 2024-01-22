@@ -1,0 +1,569 @@
+[+] Containers:
+ |- [+] Container: /Game/Platformer3D_MK/Maps/Level03
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0287613F4180306ADFB7199F600D5D59 BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1179664970 Label:BP_Coin4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-840.000 Y=4800.000 Z=990.000), Max=(X=-720.000 Y=4920.000 Z=1110.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:066CE881479CCA8ED6594E933B8365A4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1350914902 Label:SM_Cloud_A4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3926.206 Y=-4656.579 Z=2947.488), Max=(X=18604.866 Y=14937.162 Z=9692.512) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:12B0560B45DB8296EB2F4ABDEA838574 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA73CA01_2041681716 Label:SM_Cloud_D SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-9059.531 Y=-2330.588 Z=-12825.667), Max=(X=7479.262 Y=22406.721 Z=-5294.333) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:18BD472147BB3E76FFE476A7694ECDB9 BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1194355971 Label:BP_Coin5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-346.903 Y=3553.097 Z=1070.000), Max=(X=-193.097 Y=3706.903 Z=1190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1DF70C2746E06669DABC498C6EFCD3E5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1327073783 Label:MA_setDressing_c SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4153.448 Y=4308.366 Z=96.458), Max=(X=-4046.483 Y=4415.415 Z=203.588) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1FFB08BB458D5DF3049238B67D11ED5A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1933317582 Label:SM_Platform_M_coll SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=30.961 Y=4780.926 Z=869.674), Max=(X=328.667 Y=5078.632 Z=905.373) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:230DF7E044FFF53A550BD8A47DC6363A BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1164712969 Label:BP_Coin3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2066.903 Y=4543.097 Z=480.000), Max=(X=-1913.097 Y=4696.903 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2779C0CD468D2EB197AC98BAEF950278 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1243709573 Label:SM_FloatingIsland_S13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=585.093 Y=4682.411 Z=420.961), Max=(X=2259.403 Y=5463.460 Z=899.929) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2B1C6249425AC7CE79567885D5219C3E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1480736574 Label:SM_FloatingIsland_S14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-702.454 Y=6483.676 Z=620.961), Max=(X=134.702 Y=7134.550 Z=1099.929) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2C7C3807455779BF3764B59BA4A66D1E BaseClass: NativeClass:/Script/Engine.Emitter Name:Emitter_UAID_244BFE874FBAF6C901_2076093789 Label:vfx_pollen_magic_camera_fade2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-400.000 Y=4870.000 Z=900.000), Max=(X=-400.000 Y=4870.000 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:330E58B64A0F41B6C02BDEA0CE05B849 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1366295903 Label:SM_Cloud_D4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-10619.676 Y=9177.347 Z=-2725.667), Max=(X=15234.596 Y=28990.852 Z=4805.667) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:342F30794112C482AED12B9975CEE370 BaseClass:/Game/Platformer3D_MK/Core/RespawnSystem/BP_Checkpoint.BP_Checkpoint_C NativeClass:/Script/Engine.Actor Name:BP_Checkpoint_C_UAID_244BFE874FBAF3C901_2050625203 Label:BP_Checkpoint2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=926.740 Y=3097.236 Z=1499.621), Max=(X=1228.739 Y=3257.236 Z=1700.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3831B7DF46003014EC5E6F9D38F44B38 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1844109581 Label:SM_Platform_M_A SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-919.857 Y=5530.047 Z=829.267), Max=(X=-101.166 Y=6348.738 Z=909.590) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:386FB99E4B8293B5CB34CF982E5013DC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_2033718585 Label:SM_Platform_M_coll2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=230.961 Y=2510.926 Z=1479.674), Max=(X=528.667 Y=2808.632 Z=1515.373) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:39E83AEA4CEF8F2DCB28A9AA0AC7873B BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1156384968 Label:BP_Coin2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2134.530 Y=3645.470 Z=270.000), Max=(X=-1965.470 Y=3814.530 Z=390.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3A77D3EA47B6179FE833E5B6783EEE63 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1428545904 Label:SM_Cloud_C4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-29033.364 Y=3448.785 Z=-823.696), Max=(X=-14536.271 Y=24944.377 Z=4759.814) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4102F78C40FE9C91B384E992CD2E1F38 BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1241156977 Label:BP_Coin11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1330.000 Y=6960.000 Z=1780.000), Max=(X=-1210.000 Y=7080.000 Z=1900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4371AD3C490916389CC4C69688EC3BEF BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1203211972 Label:BP_Coin6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1070.000 Y=2770.000 Z=1380.000), Max=(X=-950.000 Y=2890.000 Z=1500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:473024B542BE15AA06AF2E8DDA8C743B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1910404391 Label:SM_FloatingIsland_S8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-684.605 Y=2565.910 Z=1142.252), Max=(X=-115.602 Y=3095.746 Z=1544.582) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:482353824DBF696D02D64FB10D46D866 BaseClass:/Game/Platformer3D_MK/Pickups/BP_Key.BP_Key_C NativeClass:/Script/Engine.Actor Name:BP_Key_C_UAID_244BFE874FBAF2C901_1930907021 Label:BP_Key SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=930.000 Y=3110.000 Z=1595.881), Max=(X=1050.000 Y=3230.000 Z=1715.881) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:49D633B744221396BF26338FD6520CFD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1455520905 Label:SM_Cloud_A5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-16863.794 Y=3523.421 Z=2947.488), Max=(X=-2185.134 Y=23117.162 Z=9692.512) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4C230C254CD5DE9FF289FB81BD01D8C2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1768537388 Label:SM_FloatingIsland_S6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-704.065 Y=3208.309 Z=345.542), Max=(X=237.184 Y=3983.747 Z=1153.387) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4C8D949F424AF30DF2BE7B9DFE908A86 BaseClass: NativeClass:/Script/Engine.Emitter Name:Emitter_UAID_244BFE874FBAF6C901_2040972788 Label:vfx_pollen_magic_camera_fade SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3640.000 Y=3590.000 Z=100.000), Max=(X=-3640.000 Y=3590.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4E78B83641504A4D0D3EDC9C1591B377 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1457295906 Label:SM_Cloud_A6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6617.623 Y=-6982.503 Z=6447.488), Max=(X=12206.030 Y=5170.415 Z=13192.512) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4FCE90B44D18FB305B5103BAE6D37AAA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1539937577 Label:SM_FloatingIsland_S17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1482.936 Y=6866.838 Z=1426.572), Max=(X=-1029.131 Y=7192.275 Z=1735.103) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:542B0D014CD61B60CB914C93F7F9A4DC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1195193896 Label:SM_Cloud_C2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11386.636 Y=-4581.215 Z=-10833.696), Max=(X=25883.729 Y=16914.377 Z=-5250.186) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:54FDB8D84034DCB8680207B72577F3ED BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1260716778 Label:SM_Grass_Dk_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3434.651 Y=3996.572 Z=100.000), Max=(X=-3414.948 Y=4127.999 Z=140.528) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:58D80FFA44DD7ACC287984B5791A1789 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1569961578 Label:SM_FloatingIsland_S18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=327.546 Y=6923.676 Z=1250.961), Max=(X=1164.702 Y=7574.550 Z=1729.929) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5F8E6D8147EC29EEC5B293BBEAC22398 BaseClass:/Game/Platformer3D_MK/Core/Platform/BP_Platform.BP_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Platform_C_UAID_244BFE874FBA73CA01_1684908715 Label:BP_Platform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1039.520 Y=6787.332 Z=1488.928), Max=(X=-547.805 Y=7234.159 Z=1709.972) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5FA1D4FF4F1D35B176E15FA18DC3F886 BaseClass:/Game/Platformer3D_MK/Core/Gate/BP_Gate.BP_Gate_C NativeClass:/Script/Engine.Actor Name:BP_Gate_C_UAID_244BFE874FBAF2C901_1307265019 Label:BP_Gate SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=870.000 Y=4648.610 Z=899.895), Max=(X=1270.000 Y=5451.390 Z=1301.866) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6168E7D24F3405498833B587875B2922 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1124658769 Label:SM_Clover_01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4103.163 Y=3974.801 Z=101.912), Max=(X=-3977.564 Y=4116.987 Z=102.587) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6377A6004EBE62D32A8906B5D025646F BaseClass: NativeClass:/Script/Engine.Emitter Name:Emitter_UAID_244BFE874FBAF6C901_2107202790 Label:vfx_pollen_magic_camera_fade3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1170.000 Y=3150.000 Z=1500.000), Max=(X=1170.000 Y=3150.000 Z=1500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:66AEE1A147E67C067F85D192BCD590B0 BaseClass:/Game/Platformer3D_MK/Core/RespawnSystem/BP_HeightRespawn.BP_HeightRespawn_C NativeClass:/Script/Engine.Actor Name:BP_HeightRespawn_C_UAID_244BFE874FBAF3C901_1862548201 Label:BP_HeightRespawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-8734.000 Y=-2210.000 Z=-282.000), Max=(X=5714.000 Y=12110.000 Z=-218.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:697FAF4B47D6339D3E93B4920F0C4FCB BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:6B4631E340D96062206302B6DE0D2677 BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1230581975 Label:BP_Coin9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-170.000 Y=6910.000 Z=1180.000), Max=(X=-50.000 Y=7030.000 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7503CEF54AF0900ECA884EA421930F4B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1896364390 Label:SM_FloatingIsland_S7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1240.958 Y=2565.910 Z=1060.481), Max=(X=-722.602 Y=3095.746 Z=1299.965) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:76257D2D4BE280EBEA8FFFB43DED6630 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1161404895 Label:SM_Cloud_A2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-26178.365 Y=-18268.482 Z=-11742.512), Max=(X=-7849.423 Y=1074.088 Z=-4997.488) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7B79CD0843085EA937A1279350E8EBD8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1134242772 Label:SM_Clover_4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3603.163 Y=3494.801 Z=101.912), Max=(X=-3477.564 Y=3636.987 Z=102.587) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7F0A5FC7458724B3A3E966BBCDC9D810 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1956856583 Label:SM_Platform_M_A2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1449.039 Y=4690.926 Z=569.674), Max=(X=-1151.333 Y=4988.632 Z=605.373) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:870CF8A347CE8B2401DE7986CA674363 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1257041776 Label:SM_Flower_Daisy_03 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3950.415 Y=4349.659 Z=100.000), Max=(X=-3928.701 Y=4370.134 Z=126.106) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:87D870D24711317F9E928AA23DA773BA BaseClass:/Game/Platformer3D_MK/Pickups/BP_Key.BP_Key_C NativeClass:/Script/Engine.Actor Name:BP_Key_C_UAID_244BFE874FBAF3C901_1306462200 Label:BP_Key2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=710.000 Y=7130.000 Z=1810.000), Max=(X=830.000 Y=7250.000 Z=1930.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8B2D0E59478416649381AEAC1D6E766E BaseClass:/Game/Platformer3D_MK/Core/Gate/BP_Gate.BP_Gate_C NativeClass:/Script/Engine.Actor Name:BP_Gate_C_UAID_244BFE874FBAF2C901_2112907023 Label:BP_Gate2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-911.390 Y=5710.000 Z=899.484), Max=(X=-108.610 Y=6110.000 Z=1301.456) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8B8357064BB2FC5A172B29BF78EEBDD6 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_244BFE874FBAF1C901_1866215840 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4360.000 Y=3560.000 Z=460.000), Max=(X=-4360.000 Y=3560.000 Z=460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9055612245D1AECE4387D999F08D62A3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1268786780 Label:SM_Grass_Dk_05 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3930.767 Y=3890.916 Z=100.000), Max=(X=-3805.771 Y=4114.227 Z=143.342) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:944987624DD1EE81EF0ACCB72B3E3374 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1372976787 Label:MA_setDressing_c4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4043.448 Y=4308.366 Z=96.458), Max=(X=-3936.483 Y=4415.415 Z=203.588) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9E69B989462F40314513B6AF21F3CCE8 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_244BFE874FBAF1C901_1846881838 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4280.000 Y=3540.000 Z=340.000), Max=(X=-4280.000 Y=3540.000 Z=340.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A07E954849BC10444BC86EB537987A38 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1105510765 Label:SM_Clover_03 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3519.104 Y=3126.099 Z=101.081), Max=(X=-3438.517 Y=3259.034 Z=102.587) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A6147D754919CAB65005388E7FF37512 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1130248770 Label:SM_Clover_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4013.163 Y=3374.801 Z=101.912), Max=(X=-3887.564 Y=3516.987 Z=102.587) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AAAF526C4D512EF425F4A69B43C72AE1 BaseClass:/Game/Platformer3D_MK/Core/Goal/BP_Goal.BP_Goal_C NativeClass:/Script/Engine.Actor Name:BP_Goal_C_UAID_244BFE874FBAF2C901_1432107020 Label:BP_Goal SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1710.000 Y=4849.999 Z=900.000), Max=(X=1910.000 Y=5250.000 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:ABD6709742FB58C796BCC19595205705 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1295755900 Label:SM_Cloud_C3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-19152.967 Y=17166.843 Z=-10833.696), Max=(X=2342.624 Y=31663.937 Z=-5250.186) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AD40462C4BE79ED39B6A029CCED5F713 BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1146639967 Label:BP_Coin SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3244.530 Y=3655.470 Z=180.000), Max=(X=-3075.470 Y=3824.530 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AD992B65438D773E986FE3994E69E201 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_244BFE874FBAF1C901_1857717839 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4360.000 Y=3580.000 Z=460.000), Max=(X=-4360.000 Y=3580.000 Z=460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:ADFEB21A4D7D9CBDA02493916DD650B2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1111765767 Label:SM_CloverFlower_02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3778.867 Y=4246.545 Z=103.234), Max=(X=-3704.329 Y=4339.247 Z=104.300) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AEFC40BE445E4E7676EE37B1A7D7CD60 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1564739384 Label:SM_FloatingIsland_S2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2352.454 Y=4187.507 Z=-151.550), Max=(X=-1515.298 Y=5232.157 Z=489.676) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B11A1AEF41B4C52C6361D0B92F451CC2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1115240768 Label:SM_CloverFlower_03 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3800.671 Y=3373.119 Z=103.234), Max=(X=-3739.817 Y=3518.103 Z=106.829) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B29C22734535E609B37EBCAE766DA60F BaseClass:/Game/Platformer3D_MK/Core/RespawnSystem/BP_Checkpoint.BP_Checkpoint_C NativeClass:/Script/Engine.Actor Name:BP_Checkpoint_C_UAID_244BFE874FBAF3C901_2069486204 Label:BP_Checkpoint3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=698.001 Y=7110.000 Z=1729.621), Max=(X=1000.000 Y=7270.000 Z=1930.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B5A5F041446611B893726D9FC72FB43B BaseClass:/Game/Platformer3D_MK/Core/RespawnSystem/BP_Checkpoint.BP_Checkpoint_C NativeClass:/Script/Engine.Actor Name:BP_Checkpoint_C_UAID_244BFE874FBAF3C901_2014212202 Label:BP_Checkpoint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-841.999 Y=4780.000 Z=899.621), Max=(X=-540.000 Y=4940.000 Z=1100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B7450C7A4AA8510F0DA664BBB6F53F37 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1337514784 Label:MA_setDressing_c2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4153.448 Y=4198.366 Z=96.458), Max=(X=-4046.483 Y=4305.415 Z=203.588) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B7DBB7C24CAECB7B736804A493ED0FB2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1213454898 Label:SM_Cloud_D2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3890.324 Y=-23322.653 Z=-12825.667), Max=(X=29744.596 Y=-3509.148 Z=-5294.333) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B8D2E690480A3906787DC491215CAB63 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1335310901 Label:SM_Cloud_D3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-20810.148 Y=-25498.418 Z=-3755.667), Max=(X=5375.519 Y=-3012.227 Z=3775.667) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BA36A2C5485CA1F3F9B70CBB3F3C3D0D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1132543771 Label:SM_Clover_3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4262.300 Y=3586.337 Z=101.912), Max=(X=-4082.435 Y=3772.274 Z=102.587) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BCBDDF994CA2D79D99E1EB8C73612657 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_2078017394 Label:SM_FloatingIsland_S11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=577.546 Y=2853.676 Z=1020.961), Max=(X=1414.702 Y=3504.550 Z=1499.929) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BF5662154D9B7EABC99AB0A333E55876 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_244BFE874FBAF1C901_1806834836 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-3980.000 Y=3620.000 Z=100.000), Max=(X=-3900.000 Y=3700.000 Z=284.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C0103DC64166C44C1A03EF910357E234 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA73CA01_2100851718 Label:SM_Cloud_A SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2752.559 Y=-7911.151 Z=-11742.512), Max=(X=14729.059 Y=1346.765 Z=-4997.488) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C22F19B4427FCBFF16C87A953A6FE1DC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1799706389 Label:SM_FloatingIsland_S5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1232.108 Y=3092.121 Z=860.481), Max=(X=-727.468 Y=3541.093 Z=1099.965) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C6FD6A794AB293C092E02C8A2D1D9F12 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1108831766 Label:SM_CloverFlower_01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3255.145 Y=3619.459 Z=103.234), Max=(X=-3123.320 Y=3777.106 Z=106.826) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C7C9A34D4A6DEC462E5A009B7CC9C715 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1612035386 Label:SM_FloatingIsland_S4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1407.518 Y=4063.286 Z=660.481), Max=(X=-60.600 Y=5577.207 Z=899.965) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CBA095FF4698D6700B6E6EA1ABDA31F7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1508697383 Label:SM_FloatingIsland_S SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2395.871 Y=3423.676 Z=-346.856), Max=(X=-1488.262 Y=4074.550 Z=270.206) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CF710E934A81ACD559D613A46C82149D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1276385782 Label:SM_Flower_Daisy_3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3767.911 Y=4512.481 Z=100.000), Max=(X=-3751.988 Y=4527.328 Z=125.663) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D01F30034E65F1544A6700BD713EA2C0 BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1233873976 Label:BP_Coin10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1260.000 Y=6690.000 Z=1340.000), Max=(X=-1140.000 Y=6810.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D0C8B77D4187623AF5F95B91C7F69A13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1135879773 Label:SM_Clover_5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4415.424 Y=4058.939 Z=101.912), Max=(X=-4248.769 Y=4235.508 Z=102.587) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D28330254DC297877FDA16A11B6D5209 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1259347777 Label:SM_Grass_Dk_01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3874.651 Y=4276.572 Z=100.000), Max=(X=-3854.948 Y=4407.999 Z=140.528) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D3E028164A17F70A31C820B0FF69D53A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1494474575 Label:SM_FloatingIsland_S15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1495.107 Y=6596.838 Z=965.717), Max=(X=-1019.865 Y=6922.275 Z=1333.921) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D9091C0E4A334A64C922819CEB1C65C0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1080980764 Label:SM_Clover_02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3570.302 Y=3781.829 Z=101.081), Max=(X=-3499.929 Y=3909.348 Z=102.587) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DA381C9841930C46252F7BA300FC5C68 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1416857382 Label:SM_FloatingIsland_M SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4814.406 Y=2602.544 Z=-1351.734), Max=(X=-2521.618 Y=4951.573 Z=99.895) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DA6C4DDE48EB1C0627AB57A3C26B6F6E BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1207210973 Label:BP_Coin7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-130.000 Y=2850.000 Z=1580.000), Max=(X=-10.000 Y=2970.000 Z=1700.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DB50BB554F5786FDEEE60F8B30670AD4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1516109576 Label:SM_FloatingIsland_S16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1876.227 Y=6696.838 Z=1270.481), Max=(X=-1457.649 Y=7022.275 Z=1509.965) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DC785BDE484FEDC6E206649FBAA208CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1284003899 Label:SM_Cloud_A3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1771.018 Y=16027.526 Z=-11742.512), Max=(X=21539.501 Y=32785.925 Z=-4997.488) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DE7C00164548C0C7C411BF9EFF6DD077 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1251686775 Label:SM_Flower_Daisy_02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3447.911 Y=3292.481 Z=100.000), Max=(X=-3431.988 Y=3307.328 Z=125.663) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E4D29C7F4FE5D7F32C3800B67C2E6C60 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_244BFE874FBAF1C901_1878895841 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4360.000 Y=3590.000 Z=450.000), Max=(X=-4360.000 Y=3590.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E6DC4152451DFCBABDF926A30CE79210 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_244BFE874FBAF1C901_1836879837 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F15153EC446B5344EC33DCB199CBD3C4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1932952392 Label:SM_FloatingIsland_S9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-114.868 Y=2777.470 Z=1260.481), Max=(X=10.705 Y=3037.820 Z=1499.965) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F35DF3274C7829AEEBA2ADAC17AEFA6A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1184715774 Label:SM_Flower_Daisy_01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3161.819 Y=3909.391 Z=100.000), Max=(X=-3140.260 Y=3930.202 Z=126.240) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F404A3194B82792CE10D598AA11B8233 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1365396786 Label:MA_setDressing_c3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4153.448 Y=4308.366 Z=203.599), Max=(X=-4046.483 Y=4415.415 Z=310.729) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F97A15A0416DEB500D099AB0D8A854AA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1264869779 Label:SM_Grass_Dk_03 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3732.184 Y=3020.740 Z=100.000), Max=(X=-3648.978 Y=3189.435 Z=140.528) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FA6A77A042A8BD2BF198AD814D3B41ED BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA73CA01_2062827717 Label:SM_Cloud_C SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-18968.993 Y=-7084.991 Z=-10833.696), Max=(X=90.569 Y=13417.858 Z=-5250.186) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FBFB2DD348487884C2B406A1961AC694 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1272299781 Label:SM_Flower_Daisy_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4211.819 Y=3959.391 Z=100.000), Max=(X=-4190.260 Y=3980.202 Z=126.240) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FCAB50EF43A2E6B7A21D23ADB67BA932 BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1217059974 Label:BP_Coin8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=300.000 Y=2590.000 Z=1590.000), Max=(X=420.000 Y=2710.000 Z=1710.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0287613F4180306ADFB7199F600D5D59 BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1179664970 Label:BP_Coin4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-840.000 Y=4800.000 Z=990.000), Max=(X=-720.000 Y=4920.000 Z=1110.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:066CE881479CCA8ED6594E933B8365A4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1350914902 Label:SM_Cloud_A4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3926.206 Y=-4656.579 Z=2947.488), Max=(X=18604.866 Y=14937.162 Z=9692.512) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:12B0560B45DB8296EB2F4ABDEA838574 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA73CA01_2041681716 Label:SM_Cloud_D SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-9059.531 Y=-2330.588 Z=-12825.667), Max=(X=7479.262 Y=22406.721 Z=-5294.333) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:18BD472147BB3E76FFE476A7694ECDB9 BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1194355971 Label:BP_Coin5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-346.903 Y=3553.097 Z=1070.000), Max=(X=-193.097 Y=3706.903 Z=1190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:1DF70C2746E06669DABC498C6EFCD3E5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1327073783 Label:MA_setDressing_c SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4153.448 Y=4308.366 Z=96.458), Max=(X=-4046.483 Y=4415.415 Z=203.588) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:1FFB08BB458D5DF3049238B67D11ED5A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1933317582 Label:SM_Platform_M_coll SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=30.961 Y=4780.926 Z=869.674), Max=(X=328.667 Y=5078.632 Z=905.373) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:230DF7E044FFF53A550BD8A47DC6363A BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1164712969 Label:BP_Coin3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2066.903 Y=4543.097 Z=480.000), Max=(X=-1913.097 Y=4696.903 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:2779C0CD468D2EB197AC98BAEF950278 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1243709573 Label:SM_FloatingIsland_S13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=585.093 Y=4682.411 Z=420.961), Max=(X=2259.403 Y=5463.460 Z=899.929) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:2B1C6249425AC7CE79567885D5219C3E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1480736574 Label:SM_FloatingIsland_S14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-702.454 Y=6483.676 Z=620.961), Max=(X=134.702 Y=7134.550 Z=1099.929) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:2C7C3807455779BF3764B59BA4A66D1E BaseClass: NativeClass:/Script/Engine.Emitter Name:Emitter_UAID_244BFE874FBAF6C901_2076093789 Label:vfx_pollen_magic_camera_fade2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-400.000 Y=4870.000 Z=900.000), Max=(X=-400.000 Y=4870.000 Z=900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:330E58B64A0F41B6C02BDEA0CE05B849 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1366295903 Label:SM_Cloud_D4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-10619.676 Y=9177.347 Z=-2725.667), Max=(X=15234.596 Y=28990.852 Z=4805.667) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:342F30794112C482AED12B9975CEE370 BaseClass:/Game/Platformer3D_MK/Core/RespawnSystem/BP_Checkpoint.BP_Checkpoint_C NativeClass:/Script/Engine.Actor Name:BP_Checkpoint_C_UAID_244BFE874FBAF3C901_2050625203 Label:BP_Checkpoint2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=926.740 Y=3097.236 Z=1499.621), Max=(X=1228.739 Y=3257.236 Z=1700.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:3831B7DF46003014EC5E6F9D38F44B38 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1844109581 Label:SM_Platform_M_A SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-919.857 Y=5530.047 Z=829.267), Max=(X=-101.166 Y=6348.738 Z=909.590) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:386FB99E4B8293B5CB34CF982E5013DC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_2033718585 Label:SM_Platform_M_coll2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=230.961 Y=2510.926 Z=1479.674), Max=(X=528.667 Y=2808.632 Z=1515.373) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:39E83AEA4CEF8F2DCB28A9AA0AC7873B BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1156384968 Label:BP_Coin2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2134.530 Y=3645.470 Z=270.000), Max=(X=-1965.470 Y=3814.530 Z=390.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:3A77D3EA47B6179FE833E5B6783EEE63 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1428545904 Label:SM_Cloud_C4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-29033.364 Y=3448.785 Z=-823.696), Max=(X=-14536.271 Y=24944.377 Z=4759.814) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:4102F78C40FE9C91B384E992CD2E1F38 BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1241156977 Label:BP_Coin11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1330.000 Y=6960.000 Z=1780.000), Max=(X=-1210.000 Y=7080.000 Z=1900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:4371AD3C490916389CC4C69688EC3BEF BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1203211972 Label:BP_Coin6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1070.000 Y=2770.000 Z=1380.000), Max=(X=-950.000 Y=2890.000 Z=1500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:473024B542BE15AA06AF2E8DDA8C743B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1910404391 Label:SM_FloatingIsland_S8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-684.605 Y=2565.910 Z=1142.252), Max=(X=-115.602 Y=3095.746 Z=1544.582) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:482353824DBF696D02D64FB10D46D866 BaseClass:/Game/Platformer3D_MK/Pickups/BP_Key.BP_Key_C NativeClass:/Script/Engine.Actor Name:BP_Key_C_UAID_244BFE874FBAF2C901_1930907021 Label:BP_Key SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=930.000 Y=3110.000 Z=1595.881), Max=(X=1050.000 Y=3230.000 Z=1715.881) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:49D633B744221396BF26338FD6520CFD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1455520905 Label:SM_Cloud_A5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-16863.794 Y=3523.421 Z=2947.488), Max=(X=-2185.134 Y=23117.162 Z=9692.512) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:4C230C254CD5DE9FF289FB81BD01D8C2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1768537388 Label:SM_FloatingIsland_S6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-704.065 Y=3208.309 Z=345.542), Max=(X=237.184 Y=3983.747 Z=1153.387) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:4C8D949F424AF30DF2BE7B9DFE908A86 BaseClass: NativeClass:/Script/Engine.Emitter Name:Emitter_UAID_244BFE874FBAF6C901_2040972788 Label:vfx_pollen_magic_camera_fade SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3640.000 Y=3590.000 Z=100.000), Max=(X=-3640.000 Y=3590.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:4E78B83641504A4D0D3EDC9C1591B377 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1457295906 Label:SM_Cloud_A6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6617.623 Y=-6982.503 Z=6447.488), Max=(X=12206.030 Y=5170.415 Z=13192.512) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:4FCE90B44D18FB305B5103BAE6D37AAA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1539937577 Label:SM_FloatingIsland_S17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1482.936 Y=6866.838 Z=1426.572), Max=(X=-1029.131 Y=7192.275 Z=1735.103) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:542B0D014CD61B60CB914C93F7F9A4DC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1195193896 Label:SM_Cloud_C2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11386.636 Y=-4581.215 Z=-10833.696), Max=(X=25883.729 Y=16914.377 Z=-5250.186) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:54FDB8D84034DCB8680207B72577F3ED BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1260716778 Label:SM_Grass_Dk_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3434.651 Y=3996.572 Z=100.000), Max=(X=-3414.948 Y=4127.999 Z=140.528) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:58D80FFA44DD7ACC287984B5791A1789 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1569961578 Label:SM_FloatingIsland_S18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=327.546 Y=6923.676 Z=1250.961), Max=(X=1164.702 Y=7574.550 Z=1729.929) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:5F8E6D8147EC29EEC5B293BBEAC22398 BaseClass:/Game/Platformer3D_MK/Core/Platform/BP_Platform.BP_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Platform_C_UAID_244BFE874FBA73CA01_1684908715 Label:BP_Platform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1039.520 Y=6787.332 Z=1488.928), Max=(X=-547.805 Y=7234.159 Z=1709.972) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:5FA1D4FF4F1D35B176E15FA18DC3F886 BaseClass:/Game/Platformer3D_MK/Core/Gate/BP_Gate.BP_Gate_C NativeClass:/Script/Engine.Actor Name:BP_Gate_C_UAID_244BFE874FBAF2C901_1307265019 Label:BP_Gate SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=870.000 Y=4648.610 Z=899.895), Max=(X=1270.000 Y=5451.390 Z=1301.866) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:6168E7D24F3405498833B587875B2922 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1124658769 Label:SM_Clover_01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4103.163 Y=3974.801 Z=101.912), Max=(X=-3977.564 Y=4116.987 Z=102.587) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:6377A6004EBE62D32A8906B5D025646F BaseClass: NativeClass:/Script/Engine.Emitter Name:Emitter_UAID_244BFE874FBAF6C901_2107202790 Label:vfx_pollen_magic_camera_fade3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1170.000 Y=3150.000 Z=1500.000), Max=(X=1170.000 Y=3150.000 Z=1500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:66AEE1A147E67C067F85D192BCD590B0 BaseClass:/Game/Platformer3D_MK/Core/RespawnSystem/BP_HeightRespawn.BP_HeightRespawn_C NativeClass:/Script/Engine.Actor Name:BP_HeightRespawn_C_UAID_244BFE874FBAF3C901_1862548201 Label:BP_HeightRespawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-8734.000 Y=-2210.000 Z=-282.000), Max=(X=5714.000 Y=12110.000 Z=-218.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:697FAF4B47D6339D3E93B4920F0C4FCB BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:6B4631E340D96062206302B6DE0D2677 BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1230581975 Label:BP_Coin9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-170.000 Y=6910.000 Z=1180.000), Max=(X=-50.000 Y=7030.000 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:7503CEF54AF0900ECA884EA421930F4B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1896364390 Label:SM_FloatingIsland_S7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1240.958 Y=2565.910 Z=1060.481), Max=(X=-722.602 Y=3095.746 Z=1299.965) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:76257D2D4BE280EBEA8FFFB43DED6630 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1161404895 Label:SM_Cloud_A2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-26178.365 Y=-18268.482 Z=-11742.512), Max=(X=-7849.423 Y=1074.088 Z=-4997.488) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:7B79CD0843085EA937A1279350E8EBD8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1134242772 Label:SM_Clover_4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3603.163 Y=3494.801 Z=101.912), Max=(X=-3477.564 Y=3636.987 Z=102.587) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:7F0A5FC7458724B3A3E966BBCDC9D810 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1956856583 Label:SM_Platform_M_A2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1449.039 Y=4690.926 Z=569.674), Max=(X=-1151.333 Y=4988.632 Z=605.373) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:870CF8A347CE8B2401DE7986CA674363 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1257041776 Label:SM_Flower_Daisy_03 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3950.415 Y=4349.659 Z=100.000), Max=(X=-3928.701 Y=4370.134 Z=126.106) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:87D870D24711317F9E928AA23DA773BA BaseClass:/Game/Platformer3D_MK/Pickups/BP_Key.BP_Key_C NativeClass:/Script/Engine.Actor Name:BP_Key_C_UAID_244BFE874FBAF3C901_1306462200 Label:BP_Key2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=710.000 Y=7130.000 Z=1810.000), Max=(X=830.000 Y=7250.000 Z=1930.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:8B2D0E59478416649381AEAC1D6E766E BaseClass:/Game/Platformer3D_MK/Core/Gate/BP_Gate.BP_Gate_C NativeClass:/Script/Engine.Actor Name:BP_Gate_C_UAID_244BFE874FBAF2C901_2112907023 Label:BP_Gate2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-911.390 Y=5710.000 Z=899.484), Max=(X=-108.610 Y=6110.000 Z=1301.456) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:8B8357064BB2FC5A172B29BF78EEBDD6 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_244BFE874FBAF1C901_1866215840 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4360.000 Y=3560.000 Z=460.000), Max=(X=-4360.000 Y=3560.000 Z=460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:9055612245D1AECE4387D999F08D62A3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1268786780 Label:SM_Grass_Dk_05 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3930.767 Y=3890.916 Z=100.000), Max=(X=-3805.771 Y=4114.227 Z=143.342) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:944987624DD1EE81EF0ACCB72B3E3374 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1372976787 Label:MA_setDressing_c4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4043.448 Y=4308.366 Z=96.458), Max=(X=-3936.483 Y=4415.415 Z=203.588) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:9E69B989462F40314513B6AF21F3CCE8 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_244BFE874FBAF1C901_1846881838 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4280.000 Y=3540.000 Z=340.000), Max=(X=-4280.000 Y=3540.000 Z=340.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:A07E954849BC10444BC86EB537987A38 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1105510765 Label:SM_Clover_03 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3519.104 Y=3126.099 Z=101.081), Max=(X=-3438.517 Y=3259.034 Z=102.587) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:A6147D754919CAB65005388E7FF37512 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1130248770 Label:SM_Clover_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4013.163 Y=3374.801 Z=101.912), Max=(X=-3887.564 Y=3516.987 Z=102.587) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 48]
+ |   |   |   |- Guid:AAAF526C4D512EF425F4A69B43C72AE1 BaseClass:/Game/Platformer3D_MK/Core/Goal/BP_Goal.BP_Goal_C NativeClass:/Script/Engine.Actor Name:BP_Goal_C_UAID_244BFE874FBAF2C901_1432107020 Label:BP_Goal SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1710.000 Y=4849.999 Z=900.000), Max=(X=1910.000 Y=5250.000 Z=1300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 49]
+ |   |   |   |- Guid:ABD6709742FB58C796BCC19595205705 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1295755900 Label:SM_Cloud_C3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-19152.967 Y=17166.843 Z=-10833.696), Max=(X=2342.624 Y=31663.937 Z=-5250.186) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 50]
+ |   |   |   |- Guid:AD40462C4BE79ED39B6A029CCED5F713 BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1146639967 Label:BP_Coin SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3244.530 Y=3655.470 Z=180.000), Max=(X=-3075.470 Y=3824.530 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 51]
+ |   |   |   |- Guid:AD992B65438D773E986FE3994E69E201 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_244BFE874FBAF1C901_1857717839 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4360.000 Y=3580.000 Z=460.000), Max=(X=-4360.000 Y=3580.000 Z=460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 52]
+ |   |   |   |- Guid:ADFEB21A4D7D9CBDA02493916DD650B2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1111765767 Label:SM_CloverFlower_02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3778.867 Y=4246.545 Z=103.234), Max=(X=-3704.329 Y=4339.247 Z=104.300) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 53]
+ |   |   |   |- Guid:AEFC40BE445E4E7676EE37B1A7D7CD60 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1564739384 Label:SM_FloatingIsland_S2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2352.454 Y=4187.507 Z=-151.550), Max=(X=-1515.298 Y=5232.157 Z=489.676) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 54]
+ |   |   |   |- Guid:B11A1AEF41B4C52C6361D0B92F451CC2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1115240768 Label:SM_CloverFlower_03 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3800.671 Y=3373.119 Z=103.234), Max=(X=-3739.817 Y=3518.103 Z=106.829) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 55]
+ |   |   |   |- Guid:B29C22734535E609B37EBCAE766DA60F BaseClass:/Game/Platformer3D_MK/Core/RespawnSystem/BP_Checkpoint.BP_Checkpoint_C NativeClass:/Script/Engine.Actor Name:BP_Checkpoint_C_UAID_244BFE874FBAF3C901_2069486204 Label:BP_Checkpoint3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=698.001 Y=7110.000 Z=1729.621), Max=(X=1000.000 Y=7270.000 Z=1930.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 56]
+ |   |   |   |- Guid:B5A5F041446611B893726D9FC72FB43B BaseClass:/Game/Platformer3D_MK/Core/RespawnSystem/BP_Checkpoint.BP_Checkpoint_C NativeClass:/Script/Engine.Actor Name:BP_Checkpoint_C_UAID_244BFE874FBAF3C901_2014212202 Label:BP_Checkpoint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-841.999 Y=4780.000 Z=899.621), Max=(X=-540.000 Y=4940.000 Z=1100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 57]
+ |   |   |   |- Guid:B7450C7A4AA8510F0DA664BBB6F53F37 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1337514784 Label:MA_setDressing_c2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4153.448 Y=4198.366 Z=96.458), Max=(X=-4046.483 Y=4305.415 Z=203.588) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 58]
+ |   |   |   |- Guid:B7DBB7C24CAECB7B736804A493ED0FB2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1213454898 Label:SM_Cloud_D2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3890.324 Y=-23322.653 Z=-12825.667), Max=(X=29744.596 Y=-3509.148 Z=-5294.333) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 59]
+ |   |   |   |- Guid:B8D2E690480A3906787DC491215CAB63 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1335310901 Label:SM_Cloud_D3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-20810.148 Y=-25498.418 Z=-3755.667), Max=(X=5375.519 Y=-3012.227 Z=3775.667) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 60]
+ |   |   |   |- Guid:BA36A2C5485CA1F3F9B70CBB3F3C3D0D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1132543771 Label:SM_Clover_3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4262.300 Y=3586.337 Z=101.912), Max=(X=-4082.435 Y=3772.274 Z=102.587) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 61]
+ |   |   |   |- Guid:BCBDDF994CA2D79D99E1EB8C73612657 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_2078017394 Label:SM_FloatingIsland_S11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=577.546 Y=2853.676 Z=1020.961), Max=(X=1414.702 Y=3504.550 Z=1499.929) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 62]
+ |   |   |   |- Guid:BF5662154D9B7EABC99AB0A333E55876 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_244BFE874FBAF1C901_1806834836 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-3980.000 Y=3620.000 Z=100.000), Max=(X=-3900.000 Y=3700.000 Z=284.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 63]
+ |   |   |   |- Guid:C0103DC64166C44C1A03EF910357E234 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA73CA01_2100851718 Label:SM_Cloud_A SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2752.559 Y=-7911.151 Z=-11742.512), Max=(X=14729.059 Y=1346.765 Z=-4997.488) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 64]
+ |   |   |   |- Guid:C22F19B4427FCBFF16C87A953A6FE1DC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1799706389 Label:SM_FloatingIsland_S5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1232.108 Y=3092.121 Z=860.481), Max=(X=-727.468 Y=3541.093 Z=1099.965) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 65]
+ |   |   |   |- Guid:C6FD6A794AB293C092E02C8A2D1D9F12 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1108831766 Label:SM_CloverFlower_01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3255.145 Y=3619.459 Z=103.234), Max=(X=-3123.320 Y=3777.106 Z=106.826) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 66]
+ |   |   |   |- Guid:C7C9A34D4A6DEC462E5A009B7CC9C715 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1612035386 Label:SM_FloatingIsland_S4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1407.518 Y=4063.286 Z=660.481), Max=(X=-60.600 Y=5577.207 Z=899.965) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 67]
+ |   |   |   |- Guid:CBA095FF4698D6700B6E6EA1ABDA31F7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1508697383 Label:SM_FloatingIsland_S SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2395.871 Y=3423.676 Z=-346.856), Max=(X=-1488.262 Y=4074.550 Z=270.206) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 68]
+ |   |   |   |- Guid:CF710E934A81ACD559D613A46C82149D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1276385782 Label:SM_Flower_Daisy_3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3767.911 Y=4512.481 Z=100.000), Max=(X=-3751.988 Y=4527.328 Z=125.663) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 69]
+ |   |   |   |- Guid:D01F30034E65F1544A6700BD713EA2C0 BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1233873976 Label:BP_Coin10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1260.000 Y=6690.000 Z=1340.000), Max=(X=-1140.000 Y=6810.000 Z=1460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 70]
+ |   |   |   |- Guid:D0C8B77D4187623AF5F95B91C7F69A13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1135879773 Label:SM_Clover_5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4415.424 Y=4058.939 Z=101.912), Max=(X=-4248.769 Y=4235.508 Z=102.587) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 71]
+ |   |   |   |- Guid:D28330254DC297877FDA16A11B6D5209 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1259347777 Label:SM_Grass_Dk_01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3874.651 Y=4276.572 Z=100.000), Max=(X=-3854.948 Y=4407.999 Z=140.528) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 72]
+ |   |   |   |- Guid:D3E028164A17F70A31C820B0FF69D53A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1494474575 Label:SM_FloatingIsland_S15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1495.107 Y=6596.838 Z=965.717), Max=(X=-1019.865 Y=6922.275 Z=1333.921) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 73]
+ |   |   |   |- Guid:D9091C0E4A334A64C922819CEB1C65C0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1080980764 Label:SM_Clover_02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3570.302 Y=3781.829 Z=101.081), Max=(X=-3499.929 Y=3909.348 Z=102.587) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 74]
+ |   |   |   |- Guid:DA381C9841930C46252F7BA300FC5C68 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1416857382 Label:SM_FloatingIsland_M SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4814.406 Y=2602.544 Z=-1351.734), Max=(X=-2521.618 Y=4951.573 Z=99.895) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 75]
+ |   |   |   |- Guid:DA6C4DDE48EB1C0627AB57A3C26B6F6E BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1207210973 Label:BP_Coin7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-130.000 Y=2850.000 Z=1580.000), Max=(X=-10.000 Y=2970.000 Z=1700.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 76]
+ |   |   |   |- Guid:DB50BB554F5786FDEEE60F8B30670AD4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF5C901_1516109576 Label:SM_FloatingIsland_S16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1876.227 Y=6696.838 Z=1270.481), Max=(X=-1457.649 Y=7022.275 Z=1509.965) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 77]
+ |   |   |   |- Guid:DC785BDE484FEDC6E206649FBAA208CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA74CA01_1284003899 Label:SM_Cloud_A3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1771.018 Y=16027.526 Z=-11742.512), Max=(X=21539.501 Y=32785.925 Z=-4997.488) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 78]
+ |   |   |   |- Guid:DE7C00164548C0C7C411BF9EFF6DD077 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1251686775 Label:SM_Flower_Daisy_02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3447.911 Y=3292.481 Z=100.000), Max=(X=-3431.988 Y=3307.328 Z=125.663) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 79]
+ |   |   |   |- Guid:E4D29C7F4FE5D7F32C3800B67C2E6C60 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_244BFE874FBAF1C901_1878895841 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4360.000 Y=3590.000 Z=450.000), Max=(X=-4360.000 Y=3590.000 Z=450.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 80]
+ |   |   |   |- Guid:E6DC4152451DFCBABDF926A30CE79210 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_244BFE874FBAF1C901_1836879837 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 81]
+ |   |   |   |- Guid:F15153EC446B5344EC33DCB199CBD3C4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF4C901_1932952392 Label:SM_FloatingIsland_S9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-114.868 Y=2777.470 Z=1260.481), Max=(X=10.705 Y=3037.820 Z=1499.965) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 82]
+ |   |   |   |- Guid:F35DF3274C7829AEEBA2ADAC17AEFA6A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1184715774 Label:SM_Flower_Daisy_01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3161.819 Y=3909.391 Z=100.000), Max=(X=-3140.260 Y=3930.202 Z=126.240) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 83]
+ |   |   |   |- Guid:F404A3194B82792CE10D598AA11B8233 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1365396786 Label:MA_setDressing_c3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4153.448 Y=4308.366 Z=203.599), Max=(X=-4046.483 Y=4415.415 Z=310.729) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 84]
+ |   |   |   |- Guid:F97A15A0416DEB500D099AB0D8A854AA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1264869779 Label:SM_Grass_Dk_03 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3732.184 Y=3020.740 Z=100.000), Max=(X=-3648.978 Y=3189.435 Z=140.528) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 85]
+ |   |   |   |- Guid:FA6A77A042A8BD2BF198AD814D3B41ED BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBA73CA01_2062827717 Label:SM_Cloud_C SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-18968.993 Y=-7084.991 Z=-10833.696), Max=(X=90.569 Y=13417.858 Z=-5250.186) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 86]
+ |   |   |   |- Guid:FBFB2DD348487884C2B406A1961AC694 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_244BFE874FBAF6C901_1272299781 Label:SM_Flower_Daisy_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4211.819 Y=3959.391 Z=100.000), Max=(X=-4190.260 Y=3980.202 Z=126.240) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 87]
+ |   |   |   |- Guid:FCAB50EF43A2E6B7A21D23ADB67BA932 BaseClass:/Game/Platformer3D_MK/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_244BFE874FBAF7C901_1217059974 Label:BP_Coin8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=300.000 Y=2590.000 Z=1590.000), Max=(X=420.000 Y=2710.000 Z=1710.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-29033.364 Y=-25498.418 Z=-12825.667), Max=(X=29744.596 Y=32785.925 Z=13192.512)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Platformer3D_MK/Maps/Level03
+----------------------------------------------------------------------------------------------------------------
+Level03 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Level03 Persistent Level
+ |- Always loaded Actor Count: 18 
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Platformer3D_MK/Maps/Level03
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Platformer3D_MK/Maps/Level03
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.DirectionalLight_UAID_244BFE874FBAF1C901_1836879837
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level02/2/LS/10H4QTZVD4Z1D90XJWHDFH
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.ExponentialHeightFog_UAID_244BFE874FBAF1C901_1878895841
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level02/7/OY/QZEV223NW7PSWFVD3PY890
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.PlayerStart_UAID_244BFE874FBAF1C901_1806834836
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level02/E/GS/C83A56QMO9V6X9E3KD6LHD
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.SkyAtmosphere_UAID_244BFE874FBAF1C901_1857717839
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level02/D/QW/8RRHFRHR0OU0KT6SNIEM8A
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.SkyLight_UAID_244BFE874FBAF1C901_1846881838
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level02/1/YS/1A2VNY637QS4L128P9OOOK
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBA74CA01_1161404895
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/9/4U/H1UA6S2X28SETG2L5TJKX6
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBA74CA01_1195193896
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/8/4I/BWXY0MQVLD7NCTX79PQ7EI
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBA74CA01_1213454898
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/5/8F/WEKDBS81I3HTKVM3KHCST2
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBA74CA01_1284003899
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/C/0S/J1UIRFH0UGIZUU2I5BKR9F
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBA74CA01_1295755900
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/0/Y3/B366WTYZAARPUB145DR75S
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBA74CA01_1366295903
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/A/XZ/YOEEA4RES8NMBOV19IZUMK
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBA74CA01_1428545904
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/3/JD/7C20W16SY82N4TN4DW545L
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.VolumetricCloud_UAID_244BFE874FBAF1C901_1866215840
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level02/1/9O/HZG7XKGGW4SW2FXRX29ZRS
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/3/N7/31O1DGVBMDSV87YNCLYJAW
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.WorldPartitionMiniMap_UAID_244BFE874FBAF1C901_1504709834
+ |- Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level02/C/0X/CTM8OVJZ25IUYSHF2C2M2P
+ |- Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/Platformer3D_MK/Maps/Level03
+
+----------------------------------------------------------------------------------------------------------------
+Level03 - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=-29033.364 Y=-25498.418 Z=-12825.667), Max=(X=29744.596 Y=32785.925 Z=13192.512)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 4
+ |- Level  0: Cell Count    2 | Cell Size   12800 | Actor Count   67 (90.5%)
+ |- Level  1: Cell Count    1 | Cell Size   25600 | Actor Count    2 (2.7%)
+ |- Level  2: Cell Count    1 | Cell Size   51200 | Actor Count    5 (6.8%)
+ |- Level  3: Cell Count    0 | Cell Size  102400 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell Level03_MainGrid_L0_X0_Y0 (2D36D5PIBFQXGNZWKZEW6ACWT)
+ |   |- Actor Count: 56
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Coin_C_UAID_244BFE874FBAF7C901_1179664970
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/5/EZ/64G0ZAQ6ULR04TMJTDYUDP
+ |   |- Actor Instance Guid: 0287613F4180306ADFB7199F600D5D59
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Coin_C_UAID_244BFE874FBAF7C901_1194355971
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/5/DT/GL9YLV7W9E4EKLC7HFILI6
+ |   |- Actor Instance Guid: 18BD472147BB3E76FFE476A7694ECDB9
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1327073783
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/8/7M/Q3OT3F89LYK2H9WRLNECRM
+ |   |- Actor Instance Guid: 1DF70C2746E06669DABC498C6EFCD3E5
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF5C901_1933317582
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/6/RW/NBWR546H7KFPZSSCUDHUQG
+ |   |- Actor Instance Guid: 1FFB08BB458D5DF3049238B67D11ED5A
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Coin_C_UAID_244BFE874FBAF7C901_1164712969
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/D/41/JIQQCKJYJIUBFUCK3WACVR
+ |   |- Actor Instance Guid: 230DF7E044FFF53A550BD8A47DC6363A
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF5C901_1243709573
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/8/70/8WC757F7AOQH05JI8ARYLZ
+ |   |- Actor Instance Guid: 2779C0CD468D2EB197AC98BAEF950278
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.Emitter_UAID_244BFE874FBAF6C901_2076093789
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/D/FL/G0FMD8HZJ72XZ4CRVJYRYV
+ |   |- Actor Instance Guid: 2C7C3807455779BF3764B59BA4A66D1E
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Checkpoint_C_UAID_244BFE874FBAF3C901_2050625203
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/E/CS/OSZ2G27WSTDKWQJUDOZZZD
+ |   |- Actor Instance Guid: 342F30794112C482AED12B9975CEE370
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF5C901_1844109581
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/E/US/TJADGV425G6AZYDGLVQKNZ
+ |   |- Actor Instance Guid: 3831B7DF46003014EC5E6F9D38F44B38
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF5C901_2033718585
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/0/3Q/YVZJQ52EM9UAI10MSOTU3O
+ |   |- Actor Instance Guid: 386FB99E4B8293B5CB34CF982E5013DC
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Coin_C_UAID_244BFE874FBAF7C901_1156384968
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/E/33/QYZ3PD4C503RVWPIC655U6
+ |   |- Actor Instance Guid: 39E83AEA4CEF8F2DCB28A9AA0AC7873B
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Coin_C_UAID_244BFE874FBAF7C901_1203211972
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/6/1B/QDFA6CTWN60YX61KQYB6ES
+ |   |- Actor Instance Guid: 4371AD3C490916389CC4C69688EC3BEF
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF4C901_1910404391
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/B/E5/JLXH1BIII03U88KZ5H6OVE
+ |   |- Actor Instance Guid: 473024B542BE15AA06AF2E8DDA8C743B
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Key_C_UAID_244BFE874FBAF2C901_1930907021
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/1/U1/RF9CAJN6T7DANFA400CH3J
+ |   |- Actor Instance Guid: 482353824DBF696D02D64FB10D46D866
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF4C901_1768537388
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/5/XD/T8WT5JH39DH8YPYQ7028VS
+ |   |- Actor Instance Guid: 4C230C254CD5DE9FF289FB81BD01D8C2
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.Emitter_UAID_244BFE874FBAF6C901_2040972788
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/4/P0/7PPR43HSDR19HBONVH9KVT
+ |   |- Actor Instance Guid: 4C8D949F424AF30DF2BE7B9DFE908A86
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1260716778
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/E/G4/X77PW3EQOCOJRFIBWCBNLA
+ |   |- Actor Instance Guid: 54FDB8D84034DCB8680207B72577F3ED
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Gate_C_UAID_244BFE874FBAF2C901_1307265019
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/2/EH/73AASY0SVO0PSYPE4MGZMI
+ |   |- Actor Instance Guid: 5FA1D4FF4F1D35B176E15FA18DC3F886
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1124658769
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/2/PI/A3UXNXFP82NHF1UX2J1XLB
+ |   |- Actor Instance Guid: 6168E7D24F3405498833B587875B2922
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.Emitter_UAID_244BFE874FBAF6C901_2107202790
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/D/9K/8EVW7UTEOH3Z1C35YQCS7G
+ |   |- Actor Instance Guid: 6377A6004EBE62D32A8906B5D025646F
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF4C901_1896364390
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/E/4N/ZHE17VRM8SWGRVVSCDM428
+ |   |- Actor Instance Guid: 7503CEF54AF0900ECA884EA421930F4B
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1134242772
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/2/MQ/23FOOHDJAPVA8QQ9FRW7SS
+ |   |- Actor Instance Guid: 7B79CD0843085EA937A1279350E8EBD8
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF5C901_1956856583
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/A/UW/FJ2RVYE5HW8472ME5DPV3Q
+ |   |- Actor Instance Guid: 7F0A5FC7458724B3A3E966BBCDC9D810
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1257041776
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/8/UQ/2O0E7F0KDQFAATILCRPOVG
+ |   |- Actor Instance Guid: 870CF8A347CE8B2401DE7986CA674363
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Gate_C_UAID_244BFE874FBAF2C901_2112907023
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/B/B6/AFQRMSE7EJ2A3MJKUUZB2O
+ |   |- Actor Instance Guid: 8B2D0E59478416649381AEAC1D6E766E
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1268786780
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/7/3Z/A3CN7YMP1KIO85NAWVMFKY
+ |   |- Actor Instance Guid: 9055612245D1AECE4387D999F08D62A3
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1372976787
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/1/PQ/PFFZGMCXCH09PUD13HC1PD
+ |   |- Actor Instance Guid: 944987624DD1EE81EF0ACCB72B3E3374
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1105510765
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/B/67/A092DJ3ZT3B8RE4ANO04US
+ |   |- Actor Instance Guid: A07E954849BC10444BC86EB537987A38
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1130248770
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/6/69/JB0W3WU98OTJHOUXZJS7DC
+ |   |- Actor Instance Guid: A6147D754919CAB65005388E7FF37512
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Goal_C_UAID_244BFE874FBAF2C901_1432107020
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/E/KK/AJ02ZP3GAS08R9XAI5HVNR
+ |   |- Actor Instance Guid: AAAF526C4D512EF425F4A69B43C72AE1
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Coin_C_UAID_244BFE874FBAF7C901_1146639967
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/0/V0/67M59KWUR53YHQWXECWE8D
+ |   |- Actor Instance Guid: AD40462C4BE79ED39B6A029CCED5F713
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1111765767
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/3/N5/PFA0EOR3YCID0HGIBMPSFO
+ |   |- Actor Instance Guid: ADFEB21A4D7D9CBDA02493916DD650B2
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF4C901_1564739384
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/A/AY/Q4EFUPS0P2YIXFYW3FIQ48
+ |   |- Actor Instance Guid: AEFC40BE445E4E7676EE37B1A7D7CD60
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1115240768
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/9/51/F1MY5WJ2UHQ6MQ7XBXLWD3
+ |   |- Actor Instance Guid: B11A1AEF41B4C52C6361D0B92F451CC2
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Checkpoint_C_UAID_244BFE874FBAF3C901_2014212202
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/D/DW/OFDRCD6SO654HTFXTCTJEM
+ |   |- Actor Instance Guid: B5A5F041446611B893726D9FC72FB43B
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1337514784
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/A/M4/NTDPU6BDBL8FP1X6V674NJ
+ |   |- Actor Instance Guid: B7450C7A4AA8510F0DA664BBB6F53F37
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1132543771
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/7/AO/JJKL1J6D7TA64JHNL9LJ34
+ |   |- Actor Instance Guid: BA36A2C5485CA1F3F9B70CBB3F3C3D0D
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF4C901_2078017394
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/3/4R/FEE7DLF5KKS2XWWJ317MKY
+ |   |- Actor Instance Guid: BCBDDF994CA2D79D99E1EB8C73612657
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBA73CA01_2100851718
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/9/66/2GQ8Z4J8GWDLQEE7W9VRSO
+ |   |- Actor Instance Guid: C0103DC64166C44C1A03EF910357E234
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF4C901_1799706389
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/0/7L/S9MB4LI6B64RD7XVMZMZ1P
+ |   |- Actor Instance Guid: C22F19B4427FCBFF16C87A953A6FE1DC
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1108831766
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/3/HA/BLI1NFD6M49H3GYZVIT5RU
+ |   |- Actor Instance Guid: C6FD6A794AB293C092E02C8A2D1D9F12
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF4C901_1612035386
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/6/SO/XCBOCKMJ8QBTZILDJBKQS0
+ |   |- Actor Instance Guid: C7C9A34D4A6DEC462E5A009B7CC9C715
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF4C901_1508697383
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/8/GR/PDP02CN8RUKXBGSLEPFGH8
+ |   |- Actor Instance Guid: CBA095FF4698D6700B6E6EA1ABDA31F7
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1276385782
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/D/IW/9ZSIKW2F83MHQV14769G9D
+ |   |- Actor Instance Guid: CF710E934A81ACD559D613A46C82149D
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1135879773
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/7/JC/G1VNUJH6BS6EAM8EMVYJ3T
+ |   |- Actor Instance Guid: D0C8B77D4187623AF5F95B91C7F69A13
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1259347777
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/8/D7/BEP6CV587FDJEF5I9QEG8J
+ |   |- Actor Instance Guid: D28330254DC297877FDA16A11B6D5209
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1080980764
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/3/48/UXQAH1AZMUYKZJHEHIL3YK
+ |   |- Actor Instance Guid: D9091C0E4A334A64C922819CEB1C65C0
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF4C901_1416857382
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/5/85/KOMOL6OIKU3FDFKFT0VOZH
+ |   |- Actor Instance Guid: DA381C9841930C46252F7BA300FC5C68
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Coin_C_UAID_244BFE874FBAF7C901_1207210973
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/D/E3/V14CQOYF66W70SHDO8VLCH
+ |   |- Actor Instance Guid: DA6C4DDE48EB1C0627AB57A3C26B6F6E
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1251686775
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/2/74/2D2H7WWXY5GC6ZLX6AD86K
+ |   |- Actor Instance Guid: DE7C00164548C0C7C411BF9EFF6DD077
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF4C901_1932952392
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/D/L4/N6VKDJDNUYT3JHV5F9M7VG
+ |   |- Actor Instance Guid: F15153EC446B5344EC33DCB199CBD3C4
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1184715774
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/B/VB/6G1QBLL2NP519DZ1UQ96T8
+ |   |- Actor Instance Guid: F35DF3274C7829AEEBA2ADAC17AEFA6A
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1365396786
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/D/89/GEUQRNFSPG1FFDGVC8Y4IX
+ |   |- Actor Instance Guid: F404A3194B82792CE10D598AA11B8233
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1264869779
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/0/1D/1Y4AUB1CEVWI04RW8GYPC3
+ |   |- Actor Instance Guid: F97A15A0416DEB500D099AB0D8A854AA
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF6C901_1272299781
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/E/KH/LEKEUO6HK9ZQE7B57RZ0TT
+ |   |- Actor Instance Guid: FBFB2DD348487884C2B406A1961AC694
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Coin_C_UAID_244BFE874FBAF7C901_1217059974
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/3/P7/TXBS5KRAMK58E3C7TZGQK9
+ |   |- Actor Instance Guid: FCAB50EF43A2E6B7A21D23ADB67BA932
+ |- [+] Content of Cell Level03_MainGrid_L0_X0_Y1 (5TNWBX1U8E4DCLKNT8UIFJ4NF)
+ |   |- Actor Count: 11
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF5C901_1480736574
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/E/39/A1MO2IDX19FFE8TLM5PQH9
+ |   |- Actor Instance Guid: 2B1C6249425AC7CE79567885D5219C3E
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Coin_C_UAID_244BFE874FBAF7C901_1241156977
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/0/F9/D1Q5PWP9VLU2QFEPZS70H3
+ |   |- Actor Instance Guid: 4102F78C40FE9C91B384E992CD2E1F38
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF5C901_1539937577
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/6/JK/JLUR9UQQU0EKNUG16MTWWZ
+ |   |- Actor Instance Guid: 4FCE90B44D18FB305B5103BAE6D37AAA
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF5C901_1569961578
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/2/AO/U4K243LLUS3NVL3YD1OSK4
+ |   |- Actor Instance Guid: 58D80FFA44DD7ACC287984B5791A1789
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Platform_C_UAID_244BFE874FBA73CA01_1684908715
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/9/7X/811JJR5TXXNB67NB78KR0F
+ |   |- Actor Instance Guid: 5F8E6D8147EC29EEC5B293BBEAC22398
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Coin_C_UAID_244BFE874FBAF7C901_1230581975
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/D/V1/4G46QV9W8C242L7RGQN5VI
+ |   |- Actor Instance Guid: 6B4631E340D96062206302B6DE0D2677
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Key_C_UAID_244BFE874FBAF3C901_1306462200
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/A/AX/8NE30E5MPNHY4UYOMPZZ8F
+ |   |- Actor Instance Guid: 87D870D24711317F9E928AA23DA773BA
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Checkpoint_C_UAID_244BFE874FBAF3C901_2069486204
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/C/UD/6YIMFCFNUVSJ5SH6Z31HIN
+ |   |- Actor Instance Guid: B29C22734535E609B37EBCAE766DA60F
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_Coin_C_UAID_244BFE874FBAF7C901_1233873976
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/E/ZM/41QOENDWT9D6Z1IYTYPEXR
+ |   |- Actor Instance Guid: D01F30034E65F1544A6700BD713EA2C0
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF5C901_1494474575
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/D/1F/HITG9F0BCDK8IG55S1J5H0
+ |   |- Actor Instance Guid: D3E028164A17F70A31C820B0FF69D53A
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBAF5C901_1516109576
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/E/OQ/90U7C0DTZ8OM0FJLVIZAMW
+ |   |- Actor Instance Guid: DB50BB554F5786FDEEE60F8B30670AD4
+[+] Content of Grid Level 1
+ |- [+] Content of Cell Level03_MainGrid_L1_X0_Y0 (7X7MXWNTHQ2Q86YA6J5KCZFVG)
+ |   |- Actor Count: 2
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBA74CA01_1457295906
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/B/RC/NV486TE71QGIKMVMJLT2I3
+ |   |- Actor Instance Guid: 4E78B83641504A4D0D3EDC9C1591B377
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.BP_HeightRespawn_C_UAID_244BFE874FBAF3C901_1862548201
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/D/GP/KVWU7W6DDLVWVBLEBRIU2F
+ |   |- Actor Instance Guid: 66AEE1A147E67C067F85D192BCD590B0
+[+] Content of Grid Level 2
+ |- [+] Content of Cell Level03_MainGrid_L2_X0_Y0 (0IB7AAMJ471N8W97NITZ7JSG3)
+ |   |- Actor Count: 5
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBA74CA01_1350914902
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/3/M5/ILEF1EHL8KWYKNZQN623D3
+ |   |- Actor Instance Guid: 066CE881479CCA8ED6594E933B8365A4
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBA73CA01_2041681716
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/1/YA/7YCZQWV59ZYYROK47BXWHD
+ |   |- Actor Instance Guid: 12B0560B45DB8296EB2F4ABDEA838574
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBA74CA01_1455520905
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/0/FO/26S5H417353L7GKD4PIEIO
+ |   |- Actor Instance Guid: 49D633B744221396BF26338FD6520CFD
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBA74CA01_1335310901
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/E/7X/SN7KE54XTHL7G7YH64A0FT
+ |   |- Actor Instance Guid: B8D2E690480A3906787DC491215CAB63
+ |   |-          Actor Path: /Game/Platformer3D_MK/Maps/Level03.Level03:PersistentLevel.StaticMeshActor_UAID_244BFE874FBA73CA01_2062827717
+ |   |-       Actor Package: /Game/__ExternalActors__/Platformer3D_MK/Maps/Level03/7/XZ/ZZF0BYYFFIR8DA76NM6EV9
+ |   |- Actor Instance Guid: FA6A77A042A8BD2BF198AD814D3B41ED
+[+] Content of Grid Level 3
+
